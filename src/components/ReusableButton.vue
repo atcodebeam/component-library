@@ -1,8 +1,7 @@
-<script setup lang='ts'>
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <button class='button' type='button'>
+  <button class="button" type="button">
     <slot></slot>
   </button>
 </template>

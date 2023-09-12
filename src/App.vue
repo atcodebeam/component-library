@@ -5,4 +5,3 @@ import ReusableButton from '@/components/ReusableButton.vue'
 <template>
   <ReusableButton>Click me</ReusableButton>
 </template>
-
